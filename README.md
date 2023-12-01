@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, electronic stuff like Arduino, 3D printing, ethical hacking and so other geeky stuff
 - 🌱 I’m currently learning Python, my ambition is to become a full stack developer
 - 📫 How to reach me : simply mail me at cedric.delauney@gmail.com
-- Visit my blog https://mr-r080t.blogspot.com/ (in French sorry)
+- Visit my blog https://mr-r080t.blogspot.com/ and my portfolio https://mrrobot-z506.onrender.com/ (in French sorry)
 
 <!---
 LeChat76/LeChat76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
