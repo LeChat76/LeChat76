@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an old French student(48). My name is Cedric Delauney alias @LeChat76, why LeChat? because I love cats!  ;-)
+- 👋 My name is Cedric Delauney alias @LeChat76, why LeChat? because I love cats!  ;-)
 - 👀 I’m interested in coding, electronic stuff like Arduino, 3D printing, ethical hacking and so other geeky stuff
 - 🌱 I’m currently learning Python, my ambition is to become a full stack developer
 - 📫 How to reach me : simply mail me at cedric.delauney@gmail.com
